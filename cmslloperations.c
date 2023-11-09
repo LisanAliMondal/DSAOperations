@@ -8,6 +8,7 @@ struct Node {
 };
 
 // Function to create a new node
+//ads;fhiausgjadihusgdg
 struct Node* createNode(int data) {
     struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
     if (newNode == NULL) {
